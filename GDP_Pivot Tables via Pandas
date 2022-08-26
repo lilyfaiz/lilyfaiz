@@ -1,4 +1,4 @@
-unid,wbid,country,year,SES,gdppc,yrseduc,popshare
+unid,wbid,country,year,SES,gdppc,yrseduc,popshare   turn into a readme.md file
 4,AFG,Afghanistan,1970,3.4742124,709,,.0030974303
 4,AFG,Afghanistan,1920,26.968016,731.75677,,.0032446014
 4,AFG,Afghanistan,1990,1.2695296,604,,.002346751
