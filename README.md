@@ -3,9 +3,9 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Practicing Data Structures & Algorithms in Python](https://github.com/lilyfaiz/Engineering-Notes)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Image Analysis Middleware](https://github.com/lilyfaiz/Engineering-Notes/blob/main/HOWTOPyspark.md)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
@@ -35,12 +35,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on </b> data analysis. </b>
+- 🌱 I’m currently learning </b> Python & SQL. </b>
+- 👯 I’m looking to collaborate on </b> visualization of medical data. </b>
+- 🤔 I’m looking for help with </b> image rendering visualization, javascript. </b>
+- 💬 Ask me about my experience in medical and financial data visualization, website development. 
+- 📫 How to reach me: email or phone.
+- 😄 Pronouns: she/her.
+- ⚡ Fun fact: </b> I learned python and C++ by myself. </b>
 -->
