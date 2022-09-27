@@ -22,7 +22,7 @@
 - [Disaster Relief Data Analysis Project](https://github.com/lilyfaiz/Disaster-Relief-Analysis)
 - [Consumer Probability Data Analysis Project (Alpha Recon)](https://github.com/lilyfaiz/Mobile-OS-Data-Usage-)
 
-- 🤳 Connect with me:</h2>
+<h2>🤳 Connect with me:</h2>
 
 [<img align="left" alt="LilyDas | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][website]
 [<img align="left" alt="LilyDas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
