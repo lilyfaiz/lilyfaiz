@@ -12,12 +12,12 @@
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/lilyfaiz/Decrypter-Proof-of-Concept/tree/main)
   - [Keylogger with Email Capability](https://github.com/lilyfaiz/keylogger-project)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/lilyfaiz/Package-Delivery-Application-Demo)
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - [Medical Data Visualization](https://github.com/lilyfaiz/HealthcareData)
-- [Latitude Data Analysis Project (Netflix)](https://github.com/lilyfaiz/Netflix-Data-Analysis)
+- [Netflix Data Analysis Project (Latitude)](https://github.com/lilyfaiz/Netflix-Data-Analysis)
 - [Financial Data Analysis Project (Hamamatsu)](https://github.com/lilyfaiz/Budget-Analysis)
 - [Disaster Relief Data Analysis Project](https://github.com/lilyfaiz/Disaster-Relief-Analysis)
 - [Consumer Probability Data Analysis Project (Alpha Recon)](https://github.com/lilyfaiz/Mobile-OS-Data-Usage-)
