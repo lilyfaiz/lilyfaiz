@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lily! <br/><a href="[https://github.com/joshmadakor1](https://github.com/lilyfaiz)">Healthcare Statistician</a>, <a href="[[https://www.linkedin.com/in/joshmadakor/](https://www.linkedin.com/in/lily-das/)](https://www.linkedin.com/in/lily-das/)">Cybersecurity Professional</a>, <a>Data Analyst</a></h1>
+<h1>Hi, I'm Lily! <br/><a href="(https://github.com/lilyfaiz)">Healthcare Statistician</a>, <a href="(https://www.linkedin.com/in/lily-das/)">Cybersecurity Professional</a>, <a>Data Analyst</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -10,7 +10,7 @@
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/lilyfaiz/-Encrypter-Proof-of-Concepts)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/lilyfaiz/Decrypter-Proof-of-Concept/tree/main)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Keylogger with Email Capability](https://github.com/lilyfaiz/keylogger-project)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
