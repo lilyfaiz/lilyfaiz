@@ -6,7 +6,11 @@
   - [Practicing Data Structures & Algorithms in Python](https://github.com/lilyfaiz/Engineering-Notes)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/lilyfaiz/Engineering-Notes/blob/main/HOWTOPyspark.md)
-  
+- <b>PowerShell</b>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
@@ -16,7 +20,13 @@
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
-<h2> 🤳 Connect with me:</h2>
+- [Medical Data Visualization](https://github.com/lilyfaiz/HealthcareData)
+- [Latitude Data Analysis Project (Netflix)](https://github.com/lilyfaiz/Netflix-Data-Analysis)
+- [Financial Data Analysis Project (Hamamatsu)](https://github.com/lilyfaiz/Budget-Analysis)
+- [Disaster Relief Data Analysis Project](https://github.com/lilyfaiz/Disaster-Relief-Analysis)
+- [Consumer Probability Data Analysis Project (Alpha Recon)](https://github.com/lilyfaiz/Mobile-OS-Data-Usage-)
+
+- 🤳 Connect with me:</h2>
 
 [<img align="left" alt="LilyDas | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][website]
 [<img align="left" alt="LilyDas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
