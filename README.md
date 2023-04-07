@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lily! <br/><a href="(https://github.com/lilyfaiz)">Healthcare Statistician</a>, <a href="(https://www.linkedin.com/in/lily-das/)">Cybersecurity Professional</a>, <a>Data Analyst</a></h1>
+<h1>Hi, I'm Lily! <br/><a href="(https://github.com/lilyfaiz)">Healthcare Statistician</a>, <a href="(https://www.linkedin.com/in/lily-das/)">Cybersecurity Professional</a>, <a>Biomedical Data Analyst</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
