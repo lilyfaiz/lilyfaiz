@@ -14,7 +14,7 @@
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/lilyfaiz/Decrypter-Proof-of-Concept/tree/main)
   - [Keylogger with Email Capability](https://github.com/lilyfaiz/keylogger-project)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/lilyfaiz/Package-Delivery-Application-Demo)
+  - [Package Delivery Application (Pathfinding Algorithms/Serialization Demo)](https://github.com/lilyfaiz/Package-Delivery-Application-Demo)
 
 <h2>👨‍💻 Data Analysis and Artificial Intelligence Projects:</h2>
 - <b>Power BI Dashboards </b>
