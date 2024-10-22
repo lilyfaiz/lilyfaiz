@@ -17,7 +17,7 @@
   - [Package Delivery Application (Pathfinding Algorithms/Serialization Demo)](https://github.com/lilyfaiz/Package-Delivery-Application-Demo)
 
 <h2>👨‍💻 Data Analysis and Artificial Intelligence Projects:</h2>
-- <b>Power BI Dashboards </b>
+ <b>Power BI Dashboards </b>
 
  - [Medical Data Visualization](https://github.com/lilyfaiz/HealthcareData)
  - [Team Management via iOS App](https://github.com/lilyfaiz/Team-Management-via-iOS-App)
@@ -25,12 +25,14 @@
 
   <h2> Other Gaming Projects </h2>
   <b> Unity Engine </b>
+  
    - [TikTok Dancer Emulator](https://github.com/lilyfaiz/Tiktok-Dancer-Unity-Game)
    - [Moving Ghost Physics](https://github.com/lilyfaiz/Practicing-Physics-with-Unity)
   
   <h2> HTML Gaming Projects </h2>
   
-   - [Meow-Biscuit Adventure/Battle](https://github.com/(https://github.com/lilyfaiz/Meow-Biscuit)
+  
+   - [Meow-Biscuit Adventure/Battle](https://github.com/lilyfaiz/Meow-Biscuit)
 
 <h2>🤳 Connect with me:</h2>
 
