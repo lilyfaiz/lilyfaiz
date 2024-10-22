@@ -22,8 +22,6 @@
  - [Team Management via iOS App](https://github.com/lilyfaiz/Team-Management-via-iOS-App)
  - [LinkedIn Job Analytics Python AI Bot](https://github.com/lilyfaiz/LinkedIn-AI-Analytics)
 
-
-
   <h2> Other Gaming Projects </h2>
   <b> Unity Engine</b>
   - [TikTok Dancer Emulator] ()
