@@ -19,8 +19,8 @@
 <h2>👨‍💻 Data Analysis and Artificial Intelligence Projects:</h2>
 - <b>Power BI Dashboards </b>
  - [Medical Data Visualization](https://github.com/lilyfaiz/HealthcareData)
- - [Team Management via iOS App](
- - [LinkedIn Job Analytics Python AI Bot](
+ - [Team Management via iOS App](https://github.com/lilyfaiz/Team-Management-via-iOS-App)
+ - [LinkedIn Job Analytics Python AI Bot](https://github.com/lilyfaiz/LinkedIn-AI-Analytics)
 
 
 
