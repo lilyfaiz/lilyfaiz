@@ -36,7 +36,7 @@
 
 <h2>🤳 Connect with me:</h2>
 
-[<img align="left" alt="LilyDas | Website" width="22px" src="![image](https://github.com/user-attachments/assets/78d5e13c-6097-4ef6-aaaf-18104f1dd833)
+[<img align="left" alt="LilyDas | Website" width="22px" src="!<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/all-icons@1.0.0/dist/css/all-icons.min.css">
 " />][website]
 [<img align="left" alt="LilyDas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
 [<img align="left" alt="LilyDas | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][medium]
