@@ -4,7 +4,7 @@
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Practicing Data Structures & Algorithms in Python](https://github.com/lilyfaiz/Engineering-Notes)
-  - [TensorFlow Image Classification Deep Learning Model]([https://github ](https://github.com/lilyfaiz/Image-Classification-TensorFlow-Model)
+  - [TensorFlow Image Classification Deep Learning Model](https://github.com/lilyfaiz/Image-Classification-TensorFlow-Model)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/lilyfaiz/Engineering-Notes/blob/main/HOWTOPyspark.md)
     
