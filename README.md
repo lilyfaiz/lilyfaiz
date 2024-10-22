@@ -24,17 +24,18 @@
  - [LinkedIn Job Analytics Python AI Bot](https://github.com/lilyfaiz/LinkedIn-AI-Analytics)
 
   <h2> Other Gaming Projects </h2>
-  <b> Unity Engine</b>
-  - [TikTok Dancer Emulator] ()
-  - [Moving Ghost Physics] 
+  <b> Unity Engine </b>
+   - [TikTok Dancer Emulator](https://github.com/lilyfaiz/Tiktok-Dancer-Unity-Game)
+   - [Moving Ghost Physics](https://github.com/lilyfaiz/Practicing-Physics-with-Unity)
   
   <h2> HTML Gaming Projects </h2>
-  - [Meow-Biscuit Battle] (https://github.com/(https://github.com/lilyfaiz/Meow-Biscuit)
-  - [Standard Fighting Game]
+  
+   - [Meow-Biscuit Adventure/Battle](https://github.com/(https://github.com/lilyfaiz/Meow-Biscuit)
 
 <h2>🤳 Connect with me:</h2>
 
-[<img align="left" alt="LilyDas | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][website]
+[<img align="left" alt="LilyDas | Website" width="22px" src="![image](https://github.com/user-attachments/assets/78d5e13c-6097-4ef6-aaaf-18104f1dd833)
+" />][website]
 [<img align="left" alt="LilyDas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
 [<img align="left" alt="LilyDas | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][medium]
 
