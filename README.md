@@ -29,7 +29,7 @@
    - [TikTok Dancer Emulator](https://github.com/lilyfaiz/Tiktok-Dancer-Unity-Game)
    - [Moving Ghost Physics](https://github.com/lilyfaiz/Practicing-Physics-with-Unity)
   
-  <h2> HTML Gaming Projects </h2>
+  <h2> HTML/JavaScript Gaming Projects </h2>
   
   
    - [Meow-Biscuit Adventure/Battle](https://github.com/lilyfaiz/Meow-Biscuit)
