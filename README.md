@@ -1,11 +1,13 @@
-<h1>Hi, I'm Lily! <br/><a href="(https://github.com/lilyfaiz)">Statistician</a>, <a href="(https://www.linkedin.com/in/lily-das/)">Fullstack Developer</a>, <a>Data Scientist</a></h1>
+<h1>Hi, I'm Lily! <br/><a href="(https://github.com/lilyfaiz)">Game Dev</a>, <a href="(https://www.linkedin.com/in/lily-das/)">Fullstack Engineer</a>, <a>Data Scientist</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Practicing Data Structures & Algorithms in Python](https://github.com/lilyfaiz/Engineering-Notes)
+  - [TensorFlow Image Classification Deep Learning Model](https://github 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/lilyfaiz/Engineering-Notes/blob/main/HOWTOPyspark.md)
+    
 
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/lilyfaiz/-Encrypter-Proof-of-Concepts)
@@ -14,13 +16,22 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/lilyfaiz/Package-Delivery-Application-Demo)
 
-<h2>👨‍💻 Data Analysis Projects:</h2>
-
+<h2>👨‍💻 Data Analysis and Artificial Intelligence Projects:</h2>
+- <b>Power BI Dashboards </b>
 - [Medical Data Visualization](https://github.com/lilyfaiz/HealthcareData)
-- [Netflix Data Analysis Project (Latitude)](https://github.com/lilyfaiz/Netflix-Data-Analysis)
-- [Financial Data Analysis Project (Hamamatsu)](https://github.com/lilyfaiz/Budget-Analysis)
-- [Disaster Relief Data Analysis Project](https://github.com/lilyfaiz/Disaster-Relief-Analysis)
-- [Consumer Probability Data Analysis Project (Alpha Recon)](https://github.com/lilyfaiz/Mobile-OS-Data-Usage-)
+- [Team Management via iOS App](
+- [LinkedIn Job Analytics Python AI Bot](
+
+
+
+  <h2> Other Gaming Projects </h2>
+  <b> Unity Engine</b>
+  - [TikTok Dancer Emulator] ()
+  - [Moving Ghost Physics] 
+  
+  <h2> HTML Gaming Projects </h2>
+  - [Meow-Biscuit Battle] (https://github.com/(https://github.com/lilyfaiz/Meow-Biscuit)
+  - [Standard Fighting Game]
 
 <h2>🤳 Connect with me:</h2>
 
